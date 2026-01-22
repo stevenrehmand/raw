@@ -11,14 +11,14 @@
 <!-- Description -->
   <meta name="description" content="NONGKI99 adalah portal resmi SLOT88 dengan koleksi game PG Soft RTP tertinggi hari ini, akses stabil, dan pengalaman hiburan online terbaik.">
 <!-- Preload Image -->
-  <link rel="preload" as="image" href="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg" fetchpriority="high">
+  <link rel="preload" as="image" href="https://i.postimg.cc/CLdhsPRR/nongki99.jpg" fetchpriority="high">
 <!-- Open Graph -->
   <meta property="og:site_name" content="NONGKI99">
   <meta property="og:title" content="NONGKI99 » Portal Situs Resmi SLOT88 Permainan Hiburan Online RTP Tertinggi Provider PG Soft Hari Ini">
   <meta property="og:description" content="NONGKI99 adalah portal resmi SLOT88 dengan koleksi game PG Soft RTP tertinggi hari ini, akses stabil, dan pengalaman hiburan online terbaik.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://myskillsaustralia.edu.au/rii20920-certificate-ii-in-drilling-operations/">
-  <meta property="og:image" content="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg">
+  <meta property="og:image" content="https://i.postimg.cc/CLdhsPRR/nongki99.jpg">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
 <!-- Twitter -->
@@ -26,7 +26,7 @@
   <meta name="twitter:site" content="NONGKI99">
   <meta name="twitter:title" content="NONGKI99 » Portal Situs Resmi SLOT88 Permainan Hiburan Online RTP Tertinggi Provider PG Soft Hari Ini">
   <meta name="twitter:description" content="NONGKI99 adalah portal resmi SLOT88 dengan koleksi game PG Soft RTP tertinggi hari ini, akses stabil, dan pengalaman hiburan online terbaik.">
-  <meta name="twitter:image" content="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg">
+  <meta name="twitter:image" content="https://i.postimg.cc/CLdhsPRR/nongki99.jpg">
 <!-- Twitter App Info -->
   <meta name="twitter:app:country" content="NONGKI99">
   <meta name="twitter:app:name:iphone" content="NONGKI99">
@@ -408,7 +408,7 @@
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
                                                                                                     <a class="skelton" data-fancybox="gallery" href="https://myskillsaustralia.edu.au/rii20920-certificate-ii-in-drilling-operations/">
-                                                        <img data-fancybox="gallery" src="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg" alt="NONGKI99 » Portal Situs Resmi SLOT88 Permainan Hiburan Online RTP Tertinggi Provider PG Soft Hari Ini">
+                                                        <img data-fancybox="gallery" src="https://i.postimg.cc/CLdhsPRR/nongki99.jpg" alt="NONGKI99 » Portal Situs Resmi SLOT88 Permainan Hiburan Online RTP Tertinggi Provider PG Soft Hari Ini">
                                                 </a>
                                                                                                 </div>
                                             </div>
@@ -423,20 +423,20 @@
                                     <div class="thumbnail-container">
                                         <div class="d-flex justify-content-between">
                                             <div class="item thumbnail " data-index="2">
-                                                 <img src="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg" alt="NONGKI99 Banner 1">
+                                                 <img src="https://i.postimg.cc/CLdhsPRR/nongki99.jpg" alt="NONGKI99 Banner 1">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                    <img src="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg" alt="NONGKI99 Banner 2">
+                                                    <img src="https://i.postimg.cc/CLdhsPRR/nongki99.jpg" alt="NONGKI99 Banner 2">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                    <img src="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg" alt="NONGKI99 Banner 3">
+                                                    <img src="https://i.postimg.cc/CLdhsPRR/nongki99.jpg" alt="NONGKI99 Banner 3">
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                <img src="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg" alt="NONGKI99 Banner 4">
+                                                <img src="https://i.postimg.cc/CLdhsPRR/nongki99.jpg" alt="NONGKI99 Banner 4">
                                                 
                                             </div>
                                             <div class="item thumbnail " data-index="2">
-                                                 <img src="https://i.postimg.cc/5Nj4S7XQ/deltoto.jpg" alt="NONGKI99 Banner 5">
+                                                 <img src="https://i.postimg.cc/CLdhsPRR/nongki99.jpg" alt="NONGKI99 Banner 5">
                                                 
                                             </div>
                                     </div>
