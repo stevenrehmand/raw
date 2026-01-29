@@ -17,7 +17,7 @@
   <meta property="og:title" content="SLOT DANA » Coba Deh Daftar Situs Slot Gacor Via Dana 5000 Bersih Tanpa Potongan Broo">
   <meta property="og:description" content="Situs slot gacor via Dana deposit 5000 tanpa potongan, proses cepat, aman, dan cocok buat pemain yang mau main santai modal kecil tapi tetap cuan maksimal.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+  <meta property="og:url" content="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
   <meta property="og:image" content="https://i.postimg.cc/N0mtCcHd/gar-slotdana.jpg">
   <meta property="og:image:width" content="200">
   <meta property="og:image:height" content="200">
@@ -31,25 +31,25 @@
   <meta name="twitter:app:country" content="SLOT DANA">
   <meta name="twitter:app:name:iphone" content="SLOT DANA">
   <meta name="twitter:app:id:iphone" content="646548751">
-  <meta name="twitter:app:url:iphone" content="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+  <meta name="twitter:app:url:iphone" content="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
   <meta name="twitter:app:name:googleplay" content="SLOT DANA">
   <meta name="twitter:app:id:googleplay" content="SLOT DANA">
-  <meta name="twitter:app:url:googleplay" content="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+  <meta name="twitter:app:url:googleplay" content="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
 <!-- App Links -->
-  <meta property="al:ios:url" content="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+  <meta property="al:ios:url" content="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
   <meta property="al:ios:app_store_id" content="646548751">
   <meta property="al:ios:app_name" content="SLOT DANA">
-  <meta property="al:android:url" content="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+  <meta property="al:android:url" content="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
   <meta property="al:android:package" content="SLOT DANA">
   <meta property="al:android:app_name" content="SLOT DANA">
   <meta property="al:web:should_fallback" content="true">
 <!-- Canonical -->
-  <link rel="canonical" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+  <link rel="canonical" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
   <link rel="amphtml" href="https://naga1hitam.com/amp/fkip-unila/kegiatan/" />
 <!-- App Store Meta -->
   <meta name="apple-itunes-app" content="app-id=646548751">
   <meta name="google-play-app" content="app-id=com.ubuy">
-  <link rel="alternate" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+  <link rel="alternate" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
 <!-- Disable Alert/Confirm/Prompt -->
   <script>
     alert = confirm = prompt = function() {};
@@ -170,14 +170,14 @@
                             </div>
                         </div>
                     </div>
-                                                                <a class="navbar-brand me-5" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="SLOT DANA">
+                                                                <a class="navbar-brand me-5" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="SLOT DANA">
                                                                <img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/39/BI_Logo.png" alt="SLOT DANA">
                                                     </a>
                                     </div>
                                <!-- Header Search Section -->
 <div class="header-center">
   <div class="header-search-bar">
-    <form id="search-form-sm" action="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" method="get" class="w-100 d-flex">
+    <form id="search-form-sm" action="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" method="get" class="w-100 d-flex">
 
       <!-- Select Category -->
       <div class="select-category dropdown">
@@ -188,100 +188,100 @@
         <ul class="dropdown-menu">
           <li class="dropdown-item">All</li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Fashion & Lifestyle">Fashion & Lifestyle</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Electronics & Gadgets">Electronics & Gadgets</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Electronics & Gadgets">Electronics & Gadgets</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Home & Kitchen Supplies">Home & Kitchen Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Beauty & Self Care">Beauty & Self Care</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Beauty & Self Care">Beauty & Self Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Toys & Adventures">Toys & Adventures</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Toys & Adventures">Toys & Adventures</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Sports & Outdoor">Sports & Outdoor</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Sports & Outdoor">Sports & Outdoor</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Health, Vitamins & Supplements">Health, Vitamins & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Pet Care">Pet Care</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Pet Care">Pet Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Auto Parts & Accessories">Auto Parts & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Books & Literature">Books & Literature</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Books & Literature">Books & Literature</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Yoga Clothing & Accessories">Yoga Clothing & Accessories</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Baby Care & Gear">Baby Care & Gear</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Baby Care & Gear">Baby Care & Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Fishing & Tackle Gear">Fishing & Tackle Gear</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Gloves & Mittens">Gloves & Mittens</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Gloves & Mittens">Gloves & Mittens</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Health & Supplements">Health & Supplements</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Health & Supplements">Health & Supplements</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Electronics">Electronics</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Electronics">Electronics</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Beauty & Personal Care">Beauty & Personal Care</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Beauty & Personal Care">Beauty & Personal Care</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Fashion">Fashion</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Fashion">Fashion</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Home & Kitchen">Home & Kitchen</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Home & Kitchen">Home & Kitchen</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Baby Essentials">Baby Essentials</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Baby Essentials">Baby Essentials</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Musical Instruments">Musical Instruments</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Musical Instruments">Musical Instruments</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Grocery & Gourmet Food">Grocery & Gourmet Food</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Office Supplies">Office Supplies</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Office Supplies">Office Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Sports Outdoor & Fitness">Sports Outdoor & Fitness</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Automotive">Automotive</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Automotive">Automotive</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Household Supplies">Household Supplies</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Household Supplies">Household Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Pet Supplies">Pet Supplies</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Pet Supplies">Pet Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Arts Crafts & Sewing">Arts Crafts & Sewing</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Toys & Games">Toys & Games</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Toys & Games">Toys & Games</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Industrial Supplies">Industrial Supplies</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Industrial Supplies">Industrial Supplies</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Books">Books</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Books">Books</a>
           </li>
           <li class="dropdown-item">
-            <a class="search-category-item" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Gardening Supplies">Gardening Supplies</a>
+            <a class="search-category-item" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Gardening Supplies">Gardening Supplies</a>
           </li>
         </ul>
       </div>
@@ -318,15 +318,15 @@
 </div>
 
                                 <ul class="dropdown-menu rounded border-0">
-                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Global store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#f00d0d" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="United States store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="United Kingdom store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Europe store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="China store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Japan store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Hongkong store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Korea store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
-                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Turkey store" data-href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                    <li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="global" data-mstore="*" data-store="*" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Global store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><i style="width:25px; text-align:center; color:#f00d0d" class="fa fa-globe primary-text"></i></div><div class="store-title">Global</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap active" data-fromstorecode="us" data-fromstore="us" data-tostore="us" data-mstore="us" data-store="us" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="United States store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="us"></span></div><div class="store-title">US</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="uk" data-mstore="uk" data-store="uk" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="United Kingdom store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="uk"></span></div><div class="store-title">UK</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="eu" data-mstore="eu" data-store="eu" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Europe store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="eu"></span></div><div class="store-title">EU</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="china" data-mstore="ch" data-store="ch" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="China store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="china"></span></div><div class="store-title">CHINA</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="japan" data-mstore="jp" data-store="jp" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Japan store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="japan"></span></div><div class="store-title">Japan</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="hongkong" data-mstore="hk" data-store="hk" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Hongkong store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="hongkong"></span></div><div class="store-title">Hongkong</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="korea" data-mstore="kr" data-store="kr" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Korea store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                        <div class="store-flag bg-light d-flex align-items-center"><span class="korea"></span></div><div class="store-title">Korea</div></span></li><li test="header" class="dropdown-item header-store-dropdown storeswap " data-fromstorecode="us" data-fromstore="us" data-tostore="turkey" data-mstore="tr" data-store="tr" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"><span class="" title="Turkey store" data-href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
                                                         <div class="store-flag bg-light d-flex align-items-center"><span class="turkey"></span></div><div class="store-title">Turkey</div></span></li>                                </ul>
                             </div>
                                                         
@@ -364,8 +364,8 @@
                             
                                     <ul class="dropdown-menu rounded border-0">
                                         <li class="welcome-msg">Welcome</li>
-                                        <li class="dropdown-item"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
-                                        <li class="dropdown-item"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
+                                        <li class="dropdown-item"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Sign in"><span class="signin-sprite"></span>Sign in</a></li>
+                                        <li class="dropdown-item"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Create an Account"><span class="createaccount-sprite"></span> Create an Account</a>
                                         </li>
                                     </ul>
                 </div>
@@ -407,7 +407,7 @@
                                         <div class="main-slider-container">
                                             <div class="main-product-slider">
                                                 <div class="slide-item skelton">
-                                                                                                    <a class="skelton" data-fancybox="gallery" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
+                                                                                                    <a class="skelton" data-fancybox="gallery" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">
                                                         <img data-fancybox="gallery" src="https://i.postimg.cc/N0mtCcHd/gar-slotdana.jpg" alt="SLOT DANA » Coba Deh Daftar Situs Slot Gacor Via Dana 5000 Bersih Tanpa Potongan Broo">
                                                 </a>
                                                                                                 </div>
@@ -445,7 +445,7 @@
   <div class="product-article card shadow-sm p-4 rounded">
     <div class="card-body">
       <p style="text-align: justify; color: #080808;">
-        <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">SLOT DANA</a> hadir sebagai solusi buat kamu yang pengen main slot online praktis tanpa ribet, cukup deposit Dana 5000 dan saldo masuk bersih tanpa potongan. Situs ini dikenal dengan koleksi game slot gacor yang update setiap hari, sistem transaksi cepat, serta dukungan keamanan yang stabil untuk pemain pemula maupun lama.
+        <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">SLOT DANA</a> hadir sebagai solusi buat kamu yang pengen main slot online praktis tanpa ribet, cukup deposit Dana 5000 dan saldo masuk bersih tanpa potongan. Situs ini dikenal dengan koleksi game slot gacor yang update setiap hari, sistem transaksi cepat, serta dukungan keamanan yang stabil untuk pemain pemula maupun lama.
       </p>
     </div>
   </div>
@@ -458,7 +458,7 @@
                             <div class="single-product-content">                    
                                 <div class="head-content">
                                     <div class="d-flex brand-name">
-                                        <a title="SLOT DANA" class="d-block"  href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">SLOT DANA</a>    
+                                        <a title="SLOT DANA" class="d-block"  href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/">SLOT DANA</a>    
                                     </div>
                                     <p class="h5 font-weight-light brand-name  " >
                                     
@@ -923,36 +923,36 @@
                         </div>
                         <hr>
                         <ul>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="About Us">About Us</a></li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Contact Us">Contact Us</a></li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Quotation Request">Quotation Request</a>
                             </li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Intellectual Property">Intellectual Property</a>
                             </li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Sitemap">Sitemap</a></li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Track Order">Track Order</a></li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Customs tariffs and fees">Customs tariffs and fees</a>
                             </li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Shipping Policy">Shipping Policy</a>
                             </li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Micro Influencer">Micro Influencer</a>
                             </li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Ubuy Membership">Ubuy Membership</a>
                             </li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Ubuy Warranty">Ubuy Warranty</a>
                             </li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Healthcare Disclaimer">Healthcare Disclaimer</a>
                             </li>
                                                     </ul>
@@ -963,25 +963,25 @@
                         </div>
                         <hr>
                         <ul>
-                            <li class="m-0"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li class="m-0"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Download App">Download App</a></li>
-                            <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Brands List">Brands List</a>
                             </li>
-                                                        <li class="m-0"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li class="m-0"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Customer Reviews">Customer Reviews</a>
                             </li>
-                            <li class="m-0"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li class="m-0"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Return Policy">Return Policy</a>
                             </li>
-                                                        <li class="m-0"><a target="_blank" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li class="m-0"><a target="_blank" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Blog">Blog</a></li>
-                            <li class="m-0"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li class="m-0"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="FAQ">FAQ</a></li>
-                                                        <li class="m-0"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li class="m-0"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="About Ucredit">About Ucredit</a>
                             </li>
-                            <li class="m-0"><a target="_blank" href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                            <li class="m-0"><a target="_blank" href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="Ubuy Affiliates">Ubuy Affiliates</a>
                             </li>
                             
@@ -1043,24 +1043,24 @@
                         </div>
                         <hr>
                        <ul class="mb-0">
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="JAKARTA">JAKARTA</a></li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="MEDAN">MEDAN</a></li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="PALEMBANG">PALEMBANG</a></li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="SAMARINDA">SAMARINDA</a></li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="DENPASAR">DENPASAR</a></li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="BANDUNG">BANDUNG</a></li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="PONTIANAK">PONTIANAK</a></li>
-                                                        <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                                        <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                     title="BANJARMASIN">BANJARMASIN</a></li>
                         </ul>  
-                        <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" class="view_more_cities text-dark"
+                        <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" class="view_more_cities text-dark"
                         title="View more cities">View More Cities <i
                             class="fa-solid fa-angle-right"></i></a>   
                     </div>
@@ -1076,7 +1076,7 @@
                                     href="https://ubys.us/apps/?type=apps&utm_source=inhd-ubapp&utm_medium=ubuy-website-abroad&utm_term=bottom-icon&utm_campaign=app-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a><a class="play-store d-none m-0"
                                     aria-label="Play Store"
-                                    href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
+                                    href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/&referrer=utm_source%3Dinhd-ubapp%26utm_medium%3Dubuy-website-abroad%26utm_term%3Dbottom-icon%26utm_campaign%3Dapp-install-ubuy-abroad-web-BTM"
                                     target="_blank"></a>
                             </div>
                         </div>
@@ -1093,7 +1093,7 @@
                             style="font-size: 16px; color: #666; font-weight:bold;">
                             TRUST ENSURED WITH</p>
                         <div class="ftrisoimg_con d-flex gap-4 align-items-center mt-2">
-                            <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="PCI DSS" target="_blank">
+                            <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="PCI DSS" target="_blank">
                                 <img width="94" height="36"
                                     src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" 
                                     data-src="https://d2ati23fc66y9j.cloudfront.net/ubuycom/assets/v5/images/pci-dss-compliant.svg"
@@ -1102,7 +1102,7 @@
                                     class="lazy" />
                             </a>
                                                             <div>
-                                    <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="ISO Certified" target="_blank">
+                                    <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="ISO Certified" target="_blank">
                                         <img style="border-left: 1px solid #dbd9d9; padding-left: 20px; width:auto;" src="https://d2ati23fc66y9j.cloudfront.net/ubuycom-v1/images/loading.gif" data-src="https://i.postimg.cc/3rsWF1SG/logo-maskot-monyet-ilustrasi-vektor-hewan-desain-datar-logo-monyet-geek-466462-20.avif" width="139" height="38" alt="iso certified" class="lazy"  />
                                     </a>
                                 </div>
@@ -1120,15 +1120,15 @@
                         </div>
                         <div class="col-md-12 col-sm-12 col-lg-6 col-12">
                             <ul class="footer-menu">
-                                <li class="no-content"><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                <li class="no-content"><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                         title="Terms & Conditions">Terms & Conditions</a>
                                 </li>
-                                <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                         title="Privacy Policy">Privacy Policy</a>
                                 </li>
-                                <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                         title="About Us">About Us</a></li>
-                                <li><a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
+                                <li><a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/"
                                         title="Contact Us">Contact Us</a></li>
                             </ul>
                         </div>
@@ -1136,15 +1136,15 @@
                             <div class="followus d-flex justify-content-start">
                                 <span class="mr-5">Follow Us</span>
                                 <div class="social-footer">
-                                    <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Facebook" target="_blank"><i
+                                    <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Facebook" target="_blank"><i
                                             class="fa-brands fa-facebook-f"></i></a>
-                                    <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Instagram"
+                                    <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Instagram"
                                         target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                                    <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Youtube"
+                                    <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Youtube"
                                         target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                                    <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Twitter"
+                                    <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Twitter"
                                         target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
-                                    <a href="http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Pinterest"
+                                    <a href="https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/" title="Pinterest"
                                         target="_blank"><i class="fa-brands fa-pinterest"></i></a>
                                 </div>
                             </div>
@@ -1217,7 +1217,7 @@
     
             function getCartData() {
             jQuery.ajax({
-                url: "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+                url: "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
                 dataType: 'html',
                 type: 'GET',
                 data: {
@@ -1381,7 +1381,7 @@
         }
         if (shop_cat_loader.length > 0) {
             isFetchingCat = jQuery.ajax({
-                url: "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+                url: "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
                 type: 'GET',
                 data: post_data,
                 dataType: 'html',
@@ -1403,7 +1403,7 @@
         exploreGtmEvent("explore_brand", "desktop");
         if (shop_cat_loader.length > 0) {
             isFetchingBrand = jQuery.ajax({
-                url: "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+                url: "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
                 type: 'GET',
                 data: {
                     s_id: '122',
@@ -1436,7 +1436,7 @@
             post_data.current_active_store = 'us';
         }
         isFetchingCat = jQuery.ajax({
-            url: "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+            url: "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
             type: 'GET',
             data: post_data,
             dataType: 'html',
@@ -1500,7 +1500,7 @@
         if (jQuery("#searchRelatedProducts").length > 0) {
             jQuery(document).on('click', '#searchRelatedProducts', function() {
                 if (typeof customEvent === "function") {
-                    var product_url = 'http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/';
+                    var product_url = 'https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/';
                     var ecommerceData = {
                         url: product_url
                     };
@@ -1524,7 +1524,7 @@
                     trustpilot: true                }
                 gtm_data = btoa(JSON.stringify(gtm_data));
                 jQuery.ajax({
-                    url: "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+                    url: "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
                     type: "GET",
                     dataType: "html",
                     headers: {
@@ -1996,10 +1996,10 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "SLOT DANA",
-  "url": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+  "url": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
   "potentialAction": [{
     "@type": "SearchAction",
-    "target": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/search?q={search_term_string}",
+    "target": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/search?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }]
 }
@@ -2013,35 +2013,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+            "@id": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
             "name": "SLOT DANA"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+            "@id": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
             "name": "IDAMAN TOTO"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+            "@id": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
             "name": "SLOT DANA LOGIN"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+            "@id": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
             "name": "SLOT DANA LINK"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+            "@id": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
             "name": "SLOT DANA ALTERNATIF"
           }
         }]
@@ -2053,7 +2053,7 @@
   "@type": "Organization",
   "name": "SLOT DANA",
   "alternateName": "SLOT DANA",
-  "url": "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
+  "url": "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/BI_Logo.png",
   "description": "Situs slot gacor via Dana deposit 5000 tanpa potongan, proses cepat, aman, dan cocok buat pemain yang mau main santai modal kecil tapi tetap cuan maksimal.",
   "founder": {
@@ -2154,8 +2154,8 @@
                     var uba_current_store = 'us';
                     var uba_current_active_store = 'us';
                                             var uba_customer_url = "https://www.ubuy.com.kh/ubuycom/pages/cft-v1/?s_id=122&type=72&id=73a01cbfac5d2a66db954f1962da1a52";
-                                        var uba_baseurl = "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/";
-                    var uba_weburl = "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/";
+                                        var uba_baseurl = "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/";
+                    var uba_weburl = "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/";
                     var isDetail = "1";
                     var uba_catId = "";
                     var uba_is_mobile = "0";
@@ -2185,7 +2185,7 @@
             function bl_add_ct_p_data(p_id) {
             }
 
-            var base_url = "http://s2math.fkip.unila.ac.id/category/pembimbing-tesis/";
+            var base_url = "https://s2math.fkip.unila.ac.id/category/pembimbing-tesis/";
             jQuery(document).ready(function(){     
             // load more content         
             jQuery(document).on('click','.view-more-btn',function() {
