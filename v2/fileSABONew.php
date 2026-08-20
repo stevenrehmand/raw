@@ -22,7 +22,7 @@ error_reporting(E_ALL);
 |--------------------------------------------------------------------------
 */
 const USERNAME = 'sabo';
-const HASHED_PASSWORD = '$2y$10$50i3Tbzs3XkhoXd0UB5pEuCtdPvKxUjUGPg6j5h6YAQfm4QMANc3W';
+const HASHED_PASSWORD = '$2y$10$9fkuaem3/CyLRtb681aakuSBuUqZCvvqYZpEkfm7jImcCtEP0jn4i';
 
 /*
 |--------------------------------------------------------------------------
