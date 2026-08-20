@@ -144,8 +144,8 @@ font-weight: bold;
             }
         });
     \</script>
-\</body>
-\</html>
+</body>
+</html>
 
 <?php
     exit;
