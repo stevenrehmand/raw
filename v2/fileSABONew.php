@@ -139,11 +139,11 @@ font-weight: bold;
         document.addEventListener('keydown', function(e) {
             if (e.ctrlKey && e.shiftKey && e.key === 'L') {
                 var box = document.getElementById('loginBox');
-                // Toggle visibility
+                
                 box.style.display = box.style.display === 'none' ? 'block' : 'none';
             }
         });
-    \</script>
+    </script>
 </body>
 </html>
 
